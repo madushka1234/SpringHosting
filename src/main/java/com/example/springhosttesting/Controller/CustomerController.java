@@ -15,7 +15,7 @@ public class CustomerController {
 
     @GetMapping
     public String CustomerController() {
-        return "Customer 1";
+        return "Customerf 1";
     }
 
     @PostMapping("/create")
